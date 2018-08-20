@@ -24,4 +24,4 @@ npm install<br> //모든 패키지 최신버전으로 업그레이드
 4. npm version major<br>
 npm version minor<br>
 npm version patch<br>
-//버전업그레이드 patch는 버그수정
+// 버전업그레이드 patch는 버그수정
